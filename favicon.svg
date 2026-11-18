@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Justice for Abbas Ahmed">
+  <rect width="32" height="32" rx="6" fill="#10233F"/>
+  <rect x="4" y="7" width="24" height="3" rx="1.5" fill="#A68456"/>
+  <rect x="14.5" y="9" width="3" height="13" fill="#F6F3EE"/>
+  <rect x="9" y="22" width="14" height="3" rx="1.5" fill="#A68456"/>
+  <path d="M5 10.5h7c0 3.6-1.5 5.8-3.5 5.8S5 14.1 5 10.5z" fill="#F6F3EE"/>
+  <path d="M20 10.5h7c0 3.6-1.5 5.8-3.5 5.8S20 14.1 20 10.5z" fill="#F6F3EE"/>
+</svg>
